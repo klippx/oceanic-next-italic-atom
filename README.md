@@ -1,28 +1,11 @@
-# Oceanic Next _Italic_ for Atom
+# Oceanic Next _Italic_ for Atom 1.13+
+
+Due to deprecation warnings in the original repo with newer version of Atom, for your convenience you can use this repo instead.
 
 ## Installation
-
-### Atom Package Manager (APM)
-```bash
-apm install oceanic-next-italic
-```
 
 ### Git clone
 ```bash
 cd ~/.atom/packages
-git clone https://github.com/SintrumIT/oceanic-next-italic-atom --depth=1
+git clone git@github.com:klippx/oceanic-next-italic-atom.git --depth=1
 ```
-
-## Atom.io
-https://atom.io/themes/oceanic-next-italic
-
-## Screenshots
-![Oceanic Next Italic](https://raw.githubusercontent.com/SintrumIT/oceanic-next-italic/master/images/screenshot.png "Oceanic Next Italic")
-
-## Help
-File an issue here:
-https://github.com/SintrumIT/oceanic-next-italic/issues
-
-## Contributions
-We accept contributions! Please send a pull request
-https://github.com/SintrumIT/oceanic-next-italic/pulls
